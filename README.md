@@ -1,3 +1,31 @@
+This project is a base layout template using Gulp, SCSS, and Stylelint, designed to streamline the development process and maintain code quality. It provides a structured environment for web development with a focus on automation, efficient styling, and code linting.
+
+Getting Started
+To start using this template, follow these steps:
+
+Clone the Repository:
+
+Replace <your_account> and <repo_name> with your GitHub username and the new repository name.
+
+bash
+Копировать код
+git clone https://github.com/<your_account>/<repo_name>.git
+cd <repo_name>
+Install Dependencies:
+
+Make sure you have Node.js installed, then run:
+
+bash
+Копировать код
+npm install
+Run the Development Server:
+
+To start the development server with Gulp, use:
+
+bash
+Копировать код
+gulp
+This will launch a local server, watch files for changes, and automatically reload the browser.
 
 Features
 Gulp: Task runner for automating repetitive tasks like compiling SCSS, minifying files, and reloading the browser.
@@ -35,3 +63,5 @@ Make your changes.
 Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-branch).
 Create a new Pull Request.
+License
+This project is licensed under the MIT License.
