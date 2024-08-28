@@ -20,7 +20,7 @@ const burgerIconDark = require("../image/Icon-Burger-menu-dark.png");
 const burgerIconLight = require("../image/Icon-Burger-menu.png");
 
 const closeIconDark = require("../image/Icon-Close-dark.png");
-const closeIconLight = require("../image/Icon-Close.png");
+const closeIconLight = require("../image_js/Icon-Close.png");
 
 const headerLogoDark = require("../image/header-logo-dark.png");
 const headerLogoLight = require("../image/header-logo.png");
